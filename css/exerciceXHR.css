@@ -1,0 +1,21 @@
+/* Liste des utilisateurs */
+
+img{
+    max-height:100%;
+    width: 50px;
+}
+
+li{
+   display: flex;
+   flex-direction: row;
+}
+
+#userinfo{
+    display: flex;
+    flex-direction: column;
+}
+
+/* Tableau de repos */
+table, tr, th, td{
+    border : 1px solid black;
+}
